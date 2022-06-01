@@ -1,0 +1,48 @@
+\begin{table}[htbp!]
+\centering
+\begin{tabular}{llrrrrrrrrrrrr}
+\toprule
+Manufacturer & Model & Length & Diameter & Number Thrusters & Number Blades & Velocity [m/s] & Shaft RPM [rpm] & Omega [rps] & Prop Diameter [mm] & Prop Diameter [m] & Re & J & Jw \\
+\midrule
+\rowcolor{lightgray!30}
+Australian Maritime College & AMC Explorer & 6.60 & 0.74 & 1 & 2 & 1.00 & 123.60 & 2.06 & 650 & 0.65 & 6610375.20 & 0.75 & 8837400.00 \\
+Australian Maritime College & AMC Explorer & 6.60 & 0.74 & 1 & 2 & 1.02 & 127.08 & 2.12 & 650 & 0.65 & 6714716.58 & 0.74 & 9086220.00 \\
+\rowcolor{lightgray!30}
+Australian Maritime College & AMC Explorer & 6.60 & 0.74 & 1 & 2 & 1.26 & 156.00 & 2.60 & 650 & 0.65 & 8320884.00 & 0.75 & 11154000.00 \\
+Australian Maritime College & AMC Explorer & 6.60 & 0.74 & 1 & 2 & 1.48 & 186.36 & 3.11 & 650 & 0.65 & 9753709.68 & 0.73 & 13324740.00 \\
+\rowcolor{lightgray!30}
+Australian Maritime College & AMC Explorer & 6.60 & 0.74 & 1 & 2 & 1.86 & 229.98 & 3.83 & 650 & 0.65 & 12299790.36 & 0.75 & 16443570.00 \\
+National Oceanography Center & Autosub3 & 6.80 & 0.90 & 1 & 2 & 1.00 & 149.88 & 2.50 & 700 & 0.70 & 6800000.00 & 0.57 & 11890190.59 \\
+\rowcolor{lightgray!30}
+National Oceanography Center & Autosub3 & 6.80 & 0.90 & 1 & 2 & 1.50 & 223.56 & 3.73 & 700 & 0.70 & 10200000.00 & 0.58 & 17736045.91 \\
+National Oceanography Center & Autosub3 & 6.80 & 0.90 & 1 & 2 & 2.00 & 294.00 & 4.90 & 700 & 0.70 & 13600000.00 & 0.58 & 23323615.16 \\
+\rowcolor{lightgray!30}
+Kongsberg Maritime & HUGIN 4500 & 6.50 & 1.00 & 1 & 3 & 1.73 & 155.14 & 2.59 & 700 & 0.70 & 11245000.00 & 0.96 & 11765061.95 \\
+Kongsberg Maritime & HUGIN 4500 & 6.50 & 1.00 & 1 & 3 & 1.87 & 165.12 & 2.75 & 700 & 0.70 & 12155000.00 & 0.97 & 12521806.26 \\
+\rowcolor{lightgray!30}
+Kongsberg Maritime & HUGIN 4500 & 6.50 & 1.00 & 1 & 3 & 2.00 & 175.06 & 2.92 & 700 & 0.70 & 13000000.00 & 0.98 & 13275662.19 \\
+Maritime and Ocean Engineering Research Institute & ISiMI & 1.50 & 0.20 & 1 & 5 & 0.41 & 323.68 & 5.39 & 93 & 0.09 & 614449.06 & 0.82 & 752550.38 \\
+\rowcolor{lightgray!30}
+Maritime and Ocean Engineering Research Institute & ISiMI & 1.50 & 0.20 & 1 & 5 & 0.80 & 648.61 & 10.81 & 93 & 0.09 & 1203242.05 & 0.80 & 1508028.97 \\
+Maritime and Ocean Engineering Research Institute & ISiMI & 1.50 & 0.20 & 1 & 5 & 0.98 & 812.34 & 13.54 & 93 & 0.09 & 1477479.20 & 0.78 & 1888696.47 \\
+\rowcolor{lightgray!30}
+Maritime and Ocean Engineering Research Institute & ISiMI & 1.50 & 0.20 & 1 & 5 & 1.18 & 973.55 & 16.23 & 93 & 0.09 & 1766383.56 & 0.78 & 2263507.56 \\
+International Submarine Engineering & MUN Explorer & 4.50 & 0.70 & 1 & 2 & 1.00 & 115.00 & 1.92 & 650 & 0.65 & 4500000.00 & 0.80 & 5606250.00 \\
+\rowcolor{lightgray!30}
+International Submarine Engineering & MUN Explorer & 4.50 & 0.70 & 1 & 2 & 1.50 & 173.75 & 2.90 & 650 & 0.65 & 6750000.00 & 0.80 & 8470312.50 \\
+International Submarine Engineering & MUN Explorer & 4.50 & 0.70 & 1 & 2 & 2.00 & 217.00 & 3.62 & 650 & 0.65 & 9000000.00 & 0.85 & 10578750.00 \\
+\rowcolor{lightgray!30}
+International Submarine Engineering & MUN Explorer & 4.50 & 0.70 & 1 & 2 & 2.50 & 275.00 & 4.58 & 650 & 0.65 & 11250000.00 & 0.84 & 13406250.00 \\
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 0.49 & 394.83 & 6.58 & 560 & 0.56 & 2099233.78 & 0.13 & 15845726.04 \\
+\rowcolor{lightgray!30}
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 0.77 & 601.06 & 10.02 & 560 & 0.56 & 3308881.94 & 0.14 & 24122429.60 \\
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 0.81 & 598.67 & 9.98 & 560 & 0.56 & 3468913.21 & 0.14 & 24026456.95 \\
+\rowcolor{lightgray!30}
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 1.06 & 804.81 & 13.41 & 560 & 0.56 & 4546770.91 & 0.14 & 32299878.06 \\
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 1.07 & 799.88 & 13.33 & 560 & 0.56 & 4617372.95 & 0.14 & 32101719.54 \\
+\rowcolor{lightgray!30}
+Defence Science and Technology Organization & Wayamba & 4.30 & 1.50 & 2 & 4 & 1.31 & 994.77 & 16.58 & 560 & 0.56 & 5624628.62 & 0.14 & 39923569.00 \\
+\bottomrule
+\rowcolor{lightgray!30}
+\end{tabular}
+\end{table}
